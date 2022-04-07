@@ -1,5 +1,4 @@
 # Welcome to the RGA-NFT Dapp
-## interact with it here: [https://simrunbot.github.io/rga-NFT/](https://simrunbot.github.io/rga-NFT/)
 
 This Dapp allows you to generate new random artworks.
 
